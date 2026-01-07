@@ -1,4 +1,5 @@
-<img width="2000" height="600" alt="White Minimalist Urban Modern Thank You Linkedin Banner" src="https://github.com/user-attachments/assets/ec4e8b76-3d67-441c-88af-8d21187889e7" />
+<img width="2000" height="600" alt="White Minimalist Urban Modern Thank You Linkedin Banner" src="https://github.com/user-attachments/assets/7897bd92-90e4-44fe-adfa-3f01c50dba30" />
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=580&lines=Hi+there!+%F0%9F%91%8B+I'm+G.+Manoj;AI%2FML+Engineer;Full+Stack+Developer;Hackathon+Winner" alt="Typing SVG" />
